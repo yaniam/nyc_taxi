@@ -23,3 +23,8 @@ Future ideas
 - Push visualizations or summary tables to a small dashboard once results look
   stable.
 
+Data source
+-----------
+
+The NYC taxi demand series and anomaly labels come from the [Numenta Anomaly Benchmark](https://github.com/numenta/NAB).
+
